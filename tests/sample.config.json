@@ -26,7 +26,11 @@
     "email": "my@fake.email"
   },
   "demoToken": {
-    "name": "demo-token-6353445353443"
+    "name": "demo-token-6353445353443",
+    "scopes": [
+      "write:user",
+      "write:repository"
+    ]
   },
   "demoKey": {
     "title": "demo-public-key-644531234t55414584",
